@@ -1,0 +1,21 @@
+.footer_container {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 8em;
+	background-color: #201853;	
+	margin-top: 1rem;
+	
+}
+
+.text_1{
+	color: #15FF99;	
+	font-size: 2rem;
+	border-bottom: solid 3px;	
+}
+
+.text_2{
+	font-size: 1.5rem;
+	
+}

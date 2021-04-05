@@ -1,0 +1,78 @@
+{
+    "ModelExample": [
+        {
+            "id": "66566647763",
+            "orderNumber": "1",
+            "internalOrderNumber": "565756",
+            "creationDate": "2021-04-05",
+            "name": "Saul Gomez",
+            "phoneNumber": "12345677",
+            "email": "saul.gomez@gmail.com",
+            "sellerStore": "Mayorca",
+            "shippingMethod": "Envio Nacional",
+            "shippingAddress": "cll 51 32-67",
+            "shippingCity": "Sabaneta",
+            "shippingRegion": "Antioquia",
+            "shippingCountry": "Colombia",
+            "pack_promise_min": "1",
+            "pack_promise_max": "2",
+            "ship_promise_min": "1",
+            "ship_promise_max": "2",
+            "delivery_promise_min": "1",
+            "delivery_promise_max": "2",
+            "ready_pickup_promise_min": "1",
+            "ready_pickup_promise_max": "2",
+            "lineItem": [
+                {
+                    "id": "222773236",
+                    "productName": "cellphone",
+                    "productQty": "1",
+                    "productWeight": "10 kg"
+                },
+                {
+                    "id": "9784758475",
+                    "productName": "bowl",
+                    "productQty": "1",
+                    "productWeight": "1 kg"
+                }
+            ]
+        },
+        {
+            "id": "77563757",
+            "orderNumber": "2",
+            "internalOrderNumber": "67675656",
+            "creationDate": "2021-04-05",
+            "name": "Saul Gomez castrillon",
+            "phoneNumber": "98763850",
+            "email": "sdg850@gmail.com",
+            "sellerStore": "Premiun",
+            "shippingMethod": "Domicilio - Express - Local",
+            "shippingAddress": "cll 12 37-67",
+            "shippingCity": "Medellin",
+            "shippingRegion": "Antioquia",
+            "shippingCountry": "Colombia",
+            "pack_promise_min": "2",
+            "pack_promise_max": "3",
+            "ship_promise_min": "4",
+            "ship_promise_max": "5",
+            "delivery_promise_min": "6",
+            "delivery_promise_max": "7",
+            "ready_pickup_promise_min": "8",
+            "ready_pickup_promise_max": "9",
+            "lineItem": [
+                {
+                    "id": "2rtruuugh",
+                    "productName": "cellphone",
+                    "productQty": "1",
+                    "productWeight": "10 kg"
+                },
+                {
+                    "id": "9784dry5y485h4ht75",
+                    "productName": "bowl",
+                    "productQty": "2",
+                    "productWeight": "1 kg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+.todoList__container{
+	margin-top: 1em;
+	height: auto;
+	color: white;
+	background-color: #201874;
+	position: relative;
+}
+
+
+.list__container {
+	background: #15FF99;
+	border: 3px solid  white;
+	border-radius: 50px ; 	
+	width: 30px;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+	padding:5px;
+	margin: 1rem 1rem;
+	position: absolute;
+	z-index: 5;
+
+}
+
+.todoList__addTask:hover{
+	background-color: white;
+	color: #15FF99;
+	border: 3px solid green;
+}
+
+
+.show{
+	color: white;
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	top:0;
+	right: 0;
+	left:0;
+	bottom: 0;	
+	position: absolute;
+	z-index: 20;
+}
+
+.show_form{
+	color: white;
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	position: absolute;
+	z-index: 20;
+	border: solid 3px black;
+	background-color: white;
+}
+
+.overlay{
+	position: fixed;
+	display: flex;
+	top:0;
+	right: 0;
+	left:0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.9);
+	z-index: 10;
+	
+}

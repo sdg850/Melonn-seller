@@ -1,0 +1,7 @@
+.lineItems--grid{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    row-gap: 5px;
+    column-gap: 20px;
+    justify-content: flex-start;
+}

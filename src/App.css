@@ -1,38 +1,37 @@
-.App {
-  text-align: center;
+@import './Styles/Swiper.css';
+@import './components/SellerList/SellerList.css';
+@import './components/Header/Header.css';
+@import './components/Footer/Footer.css';
+@import './components/Details/Detail.css';
+@import './components/Details/LineItem/LineItem/LineItem.css';
+@import './components/SellerList/Seller/Seller.css';
+@import './components/Header/Header.css';
+@import './components/Form/Form.css';
+@import './components/Products/ProductsList.css';
+ 
+
+*, *::before, *::after{
+	box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #201853;
+	font-size: 1.2rem;
+	color: white;
+	min-height: 100vh;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.main_container{
+	width: 95%;
+	margin: 0 auto;
+	padding: 0 40px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.full-heigh-grow{
+	display: flex;
+	flex-direction: column;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
