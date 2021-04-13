@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Melonn-seller/static/css/main.cb138dbd.chunk.css",
+    "main.js": "/Melonn-seller/static/js/main.db06ec83.chunk.js",
+    "main.js.map": "/Melonn-seller/static/js/main.db06ec83.chunk.js.map",
+    "runtime-main.js": "/Melonn-seller/static/js/runtime-main.51bd1546.js",
+    "runtime-main.js.map": "/Melonn-seller/static/js/runtime-main.51bd1546.js.map",
+    "static/css/2.baed7089.chunk.css": "/Melonn-seller/static/css/2.baed7089.chunk.css",
+    "static/js/2.c3936df3.chunk.js": "/Melonn-seller/static/js/2.c3936df3.chunk.js",
+    "static/js/2.c3936df3.chunk.js.map": "/Melonn-seller/static/js/2.c3936df3.chunk.js.map",
+    "index.html": "/Melonn-seller/index.html",
+    "static/css/2.baed7089.chunk.css.map": "/Melonn-seller/static/css/2.baed7089.chunk.css.map",
+    "static/css/main.cb138dbd.chunk.css.map": "/Melonn-seller/static/css/main.cb138dbd.chunk.css.map",
+    "static/js/2.c3936df3.chunk.js.LICENSE.txt": "/Melonn-seller/static/js/2.c3936df3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51bd1546.js",
+    "static/css/2.baed7089.chunk.css",
+    "static/js/2.c3936df3.chunk.js",
+    "static/css/main.cb138dbd.chunk.css",
+    "static/js/main.db06ec83.chunk.js"
+  ]
+}
